@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(196, 235, 201);
+    font-size: 20px;
+    background-size: cover;
+}
+p{
+    background-color: beige;
+    font-family: Arial, Helvetica, sans-serif;
+    text
+}
+li p{
+    background-color: rgb(31, 102, 54);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 35px;
+    font-weight: 60px;
+    text-decoration: underline;
+}
+img{
+    width: 800px;
+}
+h1{
+    text-decoration: underline;
+    background-color: rgb(122, 238, 14);
+    text-align: center;
+}
+nav{
+    
+}
